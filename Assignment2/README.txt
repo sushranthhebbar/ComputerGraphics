@@ -1,7 +1,3 @@
-Link to Video
-
-https://drive.google.com/drive/folders/1aTFBOvHpcBST_40oTeu1ojishLF2sx_N?usp=sharing
-
 How to Run?
 
 Open in Visual Studio Code. Install Live Server plugin. Right click on source/code/index.html and click on Run Live Server.
